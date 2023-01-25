@@ -1,0 +1,12 @@
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\bin\Debug\DSA PROJ.exe.config
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\bin\Debug\DSA PROJ.exe
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\bin\Debug\DSA PROJ.pdb
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA PROJ.csproj.AssemblyReference.cache
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA PROJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA_PROJ.Properties.Resources.resources
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA PROJ.csproj.GenerateResource.cache
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA PROJ.csproj.CoreCompileInputs.cache
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA PROJ.exe
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA PROJ.pdb
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA_PROJ.parkingsystemform.resources
+C:\Users\JOHN CARLO\OOP PROGRAMS\DSA PROJ\obj\Debug\DSA_PROJ.ParkingQueueForm.resources
